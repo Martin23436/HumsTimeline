@@ -1,0 +1,18 @@
+.go_back_button {
+  border: none;
+  text-decoration: none;
+  display: inline-block;
+  padding: 20px 40px;
+  background: tomato;
+  color: white;
+  border-radius: 40px;
+}
+
+.centre {
+  text-align: center;
+}
+
+body {
+  background-color: #474e5d;
+  font-family: Helvetica, sans-serif;
+}
