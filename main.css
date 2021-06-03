@@ -58,6 +58,7 @@ body {
   background-color: inherit;
   width: 50%;
   transition: 0.3s;
+
 }
 
 /* The circles on the timeline */
@@ -124,6 +125,8 @@ body {
   background-color: white;
   position: relative;
   border-radius: 6px;
+  border: 7px solid black;
+  border-radius: 15px;
 }
 
 /* Media queries - Responsive timeline on screens less than 600px wide */
